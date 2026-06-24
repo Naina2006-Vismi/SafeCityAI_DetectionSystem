@@ -239,10 +239,10 @@ curl -X POST -F "file=@image.jpg" http://localhost:8000/detect-image --output re
 ## 📷 Sample Detection Output
 
 ### JSON Response
-![JSON Response](RESULT/json_response.png)
+Checkout the RESULTS folder
 
 ### Annotated Image Output
-![Detect Output](RESULT/detect_image_output.png)
+Checkout the RESULTS folder
 
 ---
 
