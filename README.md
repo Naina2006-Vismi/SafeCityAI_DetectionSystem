@@ -248,7 +248,7 @@ curl -X POST -F "file=@image.jpg" http://localhost:8000/detect-image --output re
 
 ## 🎥 Demo Video
 
-A 30-second demo video (`synthetic_video.mp4`) shows the model running inference frame-by-frame on 75 unseen test images, with bounding boxes drawn in real time across all three classes.
+A 30-second demo video (`Demo Video.mp4`) shows the model running inference frame-by-frame on 75 unseen test images, with bounding boxes drawn in real time across all three classes.
 
 ---
 
