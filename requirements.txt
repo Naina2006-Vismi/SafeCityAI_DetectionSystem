@@ -1,0 +1,20 @@
+# FastAPI stack
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# PyTorch — compatible with Python 3.12 Mac ARM
+torch==2.2.0
+torchvision==0.17.0
+
+# Core ML deps — all have Python 3.12 wheels
+numpy==1.26.4
+pillow==10.1.0
+opencv-python-headless==4.9.0.80
+pandas==2.2.1
+pyyaml==6.0.1
+scipy==1.13.0
+matplotlib==3.8.4
+seaborn==0.13.2
+tqdm==4.66.2
+requests==2.31.0

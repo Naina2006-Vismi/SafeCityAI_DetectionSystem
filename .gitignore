@@ -1,0 +1,48 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML/Data files
+*.pt
+*.pth
+*.weights
+*.onnx
+*.zip
+*.tar.gz
+
+# Local data
+data/
+runs/
+outputs/
+RESULT/
+results.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+.env.local
